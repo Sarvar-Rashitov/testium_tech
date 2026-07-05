@@ -1,0 +1,24 @@
+# Testium Tech
+
+> AI-first software development company building AI agents, custom platforms, mobile apps and enterprise automation for ambitious teams.
+
+Testium Tech designs, builds and scales AI-native software products. We ship flagship products like Nexi AI (AI CRM), FinFlow AI (finance automation), EduSelf (online education platform), IPE School and Dildoras Bot, and we deliver Claude cowork training, Telegram + CRM automation for course creators, and end-to-end business automation for clients who want to own — not rent — their software.
+
+## Pages
+
+- [Home](/): Overview of Testium Tech, flagship products and services.
+- [About](/about): Mission, vision, values and how we work.
+- [Services](/services): AI agent development, Claude cowork training, course-creator Telegram+CRM, business automation, custom software, web and mobile.
+- [Products](/products): Real AI products built by Testium Tech (Nexi AI, FinFlow AI, EduSelf, IPE School, Dildoras Bot).
+- [Solutions](/solutions): Outcome-focused solutions across industries.
+- [Industries](/industries): Industries we serve.
+- [Blog](/blog): Product, AI engineering and architecture insights.
+- [Careers](/careers): Open roles and how we hire.
+- [Contact](/contact): Talk to our team — leads delivered via Telegram.
+
+## Optional
+
+- [Privacy](/privacy)
+- [Terms](/terms)
+- [Cookies](/cookies)
+- [Legal](/legal)
